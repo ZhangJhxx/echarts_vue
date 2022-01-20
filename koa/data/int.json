@@ -1,0 +1,59 @@
+{
+    "3.22": [{
+        "name": "WPI_1h_pepsin",
+        "value": 1.425
+    }, {
+        "name": "WPI_15min_pancreatin",
+        "value": 1.140
+    }, {
+        "name": "WPI_only_heated",
+        "value": 1.407
+    }, {
+        "name": "WPI_fresh",
+        "value": 1.546
+    }, {
+        "name": "NaC_fresh",
+        "value": 1.369
+    }, {
+        "name": "LGG_fresh",
+        "value": 1.570
+    }],
+    "3.25_1": [{
+        "name": "WPI_1h_pepsin",
+        "value": 1.555
+    }, {
+        "name": "WPI_15min_pancreatin",
+        "value": 1.209
+    }, {
+        "name": "WPI_only_heated",
+        "value": 1.598
+    }, {
+        "name": "WPI_fresh",
+        "value": 1.673
+    }, {
+        "name": "NaC_fresh",
+        "value": 1.515
+    }, {
+        "name": "LGG_fresh",
+        "value": 1.772
+    }],
+    "3.25_2": [{
+        "name": "WPI_1h_pepsin",
+        "value": 1.469
+    }, {
+        "name": "WPI_15min_pancreatin",
+        "value": 1.250
+    }, {
+        "name": "WPI_only_heated",
+        "value": 1.610
+    }, {
+        "name": "WPI_fresh",
+        "value": 1.737
+    }, {
+        "name": "NaC_fresh",
+        "value": 1.576
+    }, {
+        "name": "LGG_fresh",
+        "value": 1.781
+    }]
+}
